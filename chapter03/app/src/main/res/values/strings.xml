@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Chapter03</string>
+    <string name="textview">Hello World</string>
+    <string name="click">Click!</string>
+    <string name="clicked">Clicked!</string>
+    <string name="again">Again!</string>
+</resources>
