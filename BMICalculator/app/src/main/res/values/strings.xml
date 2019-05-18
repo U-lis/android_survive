@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="height">Height (cm)</string>
+    <string name="weight">Weight (kg)</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmi_result">BMI Result</string>
+    <string name="hyper_fat">Hyper FAT</string>
+    <string name="ultra_fat">Ultra FAT</string>
+    <string name="super_fat">Super FAT</string>
+    <string name="fat">FAT</string>
+    <string name="normal">Normal</string>
+    <string name="thin">Thin</string>
+    <string name="no_input_warning">Please input height and weight!</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI 계산기</string>
+    <string name="bmi_result">BMI 결과</string>
+    <string name="calculate">계산하기</string>
+    <string name="fat">뚱</string>
+    <string name="height">키 (cm)</string>
+    <string name="normal">보통</string>
+    <string name="thin">빼빼</string>
+    <string name="super_fat">뚱뚱</string>
+    <string name="ultra_fat">뚱뚱뚱</string>
+    <string name="hyper_fat">뚱뚱뚱뚱</string>
+    <string name="weight">몸무게 (kg)</string>
+    <string name="no_input_warning">왜 값을 아이넣니?</string>
+</resources>
